@@ -20,7 +20,7 @@ To run this project, you need a web server that supports JSP, such as Apache Tom
 Installation
 1.Clone the repository:
 bash
-git clone https://github.com/your-github-repo
+git clone https://github.com/Gajjellisadasiva1/Pyramid_Pattern_Generator.git
 2.Navigate to the project directory:
 bash
 cd your-github-repo
