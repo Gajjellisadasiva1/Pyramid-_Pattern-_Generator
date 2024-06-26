@@ -20,7 +20,7 @@ To run this project, you need a web server that supports JSP, such as Apache Tom
 Installation
 1.Clone the repository:
 bash
-git clone https://github.com/Gajjellisadasiva1/Pyramid_Pattern_Generator.git
+git clone https://github.com/Gajjellisadasiva1/Pyramid-_Pattern-_Generator.git
 2.Navigate to the project directory:
 bash
 cd your-github-repo
@@ -49,12 +49,12 @@ JSP File (generatePattern.jsp)
 Processes the user input and generates the right-angle pyramid pattern dynamically. Ensures that negative numbers are not accepted and prints each row of stars.
 
 Example
-
 * 
 * * 
 * * * 
 * * * * 
 * * * * * 
+
 Contributing
 Contributions are welcome! Please fork this repository and submit a pull request for any features, improvements, or bug fixes.
 
