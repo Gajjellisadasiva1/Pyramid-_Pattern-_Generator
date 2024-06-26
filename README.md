@@ -28,8 +28,8 @@ cd your-github-repo
 
 Directory Structure
 webapp/
-│
-├── Register2.html          # HTML file for user input
+
+├── Register2.html      # HTML file for user input
 ├── styles.css          # CSS file for styling
 ├── generatePattern.jsp # JSP file for generating the pattern
 
@@ -49,6 +49,7 @@ JSP File (generatePattern.jsp)
 Processes the user input and generates the right-angle pyramid pattern dynamically. Ensures that negative numbers are not accepted and prints each row of stars.
 
 Example
+
 * 
 * * 
 * * * 
