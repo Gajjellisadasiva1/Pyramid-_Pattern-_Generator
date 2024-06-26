@@ -1,14 +1,18 @@
 # Pyramid-_Pattern-_Generator
+
 Introduction
+
 Welcome to the Right-Angle Pyramid Pattern Generator project! This mini-project demonstrates how to create a web application that dynamically generates a right-angle pyramid pattern based on user input. It's a great way to learn about JavaServer Pages (JSP) for server-side scripting, as well as HTML and CSS for structure and styling.
 
 Features
+
 a.Interactive Interface: Allows users to specify the number of rows for the pyramid pattern.
 b.Dynamic Generation: Creates a right-angle pyramid pattern with stars based on user input.
 c.Clean Design: Utilizes simple and clean HTML and CSS for styling.
 d.Validation: Ensures that only positive numbers are accepted.
 
 Technologies Used
+
 a.JavaServer Pages (JSP): For server-side scripting and dynamic content generation.
 b.HTML: For structuring the web page.
 c.CSS: For styling the web page.
@@ -56,8 +60,10 @@ Example
 * * * * 
 * * * * * 
 
+
 Contributing
 Contributions are welcome! Please fork this repository and submit a pull request for any features, improvements, or bug fixes.
+
 
 License
 This project is licensed under the MIT License. 
